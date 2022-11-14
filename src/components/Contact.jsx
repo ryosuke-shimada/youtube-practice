@@ -8,17 +8,17 @@ export const Contact = () => {
 
                 <form>
                     <div>
-                        <label>名前</label>
+                        <label>name</label>
                         <input type="text" required placeholder="Taro" />
                     </div>
 
                     <div>
-                        <label>メール</label>
+                        <label>mail</label>
                         <input type="email" required placeholder="Taro@.com" />
                     </div>
 
                     <div>
-                        <label>メッセージ</label>
+                        <label>message</label>
                         <input
                             type="text"
                             required
